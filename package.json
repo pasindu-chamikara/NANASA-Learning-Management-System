@@ -1,0 +1,9 @@
+{
+  "name": "nenasa-lms-root",
+  "private": true,
+  "scripts": {
+    "dev": "npm --prefix Nenasa_Lms-main/frontend run dev",
+    "build": "npm --prefix Nenasa_Lms-main/frontend run build",
+    "preview": "npm --prefix Nenasa_Lms-main/frontend run preview"
+  }
+}
